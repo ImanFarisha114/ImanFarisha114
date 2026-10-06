@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Nur Iman Farisha
 
-<!--
-**ImanFarisha114/ImanFarisha114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am 3rd Year Computer Science student in UiTM Shah Alam. 
 
-Here are some ideas to get you started:
+## About me
+- Studying: Bachelor of Computer Science (Hons.), UiTM
+- Currently learning: Big Data
+- My FYP area: Image Processing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and tools
+C, C++, Java, HTML, SQL 
+
+## Projects
+- [Project name](link-to-your-repository): one sentence about it
+
+## Contact
+- LinkedIn: www.linkedin.com/in/nur-iman-farisha-mohd-jaafar-23345b395
+- Email: imanjaafar14@gmail.com
